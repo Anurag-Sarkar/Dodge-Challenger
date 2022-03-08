@@ -36,7 +36,7 @@ html,body{
     position: absolute;
     width: calc(100%/3);
     height: 100%;
-    background-color: #EC134E10;
+    background-color: #ec134d3f;
 }
 #c2{
     top: 0%;
@@ -44,7 +44,7 @@ html,body{
     position: absolute;
     width: calc(100%/3);
     height: 100%;
-    background-color: #4EEC1310;
+    background-color: #4EEC133f;
 }
 #c3{
     top: 0%;
@@ -52,7 +52,7 @@ html,body{
     position: absolute;
     width: calc(100%/3);
     height: 100%;
-    background-color: #134EEC10;
+    background-color: #134EEC3f;
 }
 #nav{
     z-index: 3;
